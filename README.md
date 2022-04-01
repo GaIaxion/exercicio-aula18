@@ -1,3 +1,4 @@
 # EXercícios de HTML com LINKS
 ## Lista de Exercícios
-- [Exercício](execicio1.html)
+- [Exercício](exercicio1.html)
+- [Exercício](exercicio2.html)
